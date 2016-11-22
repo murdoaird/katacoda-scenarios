@@ -5,8 +5,11 @@
   "time": "5 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Check AMP is running",
       "text": "step1.md"
+    }, {
+      "title": "Do something",
+      "text": "step2.md"
     }],
     "intro": {
       "courseData": "env-init.sh",
