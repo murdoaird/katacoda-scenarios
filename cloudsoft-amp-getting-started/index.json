@@ -3,6 +3,7 @@
   "description": "Getting started with Cloudsoft AMP",
   "difficulty": "beginner",
   "time": "2 minutes",
+  "files": ["App"],
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
@@ -11,15 +12,16 @@
     "intro": {
       "courseData": "env-init.sh",
       "text": "intro.md",
-      "credits": ""
+      "credits": "Cloudsoft Corporation Ltd."
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
-    "uilayout": "terminal",
+    "uilayout": "terminal,editor",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal\u001b[m\r\n"
+    "uimessage2": "\u001b[Blah\u001b[m\r\n"
   },
   "backend": {
     "imageid": "docker"
