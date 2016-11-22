@@ -13,3 +13,12 @@ To do so, run this **command**
 Run this command 
 
 `bundle:list `{{execute}}
+
+
+You know AMP is up-and-running when the last entry in the list is similar to this:
+
+320 | Active   |  90 | 0.10.0.20161115_1945          | Brooklyn OSGi init
+ 
+The key bits are that the **Brooklyn OSGi init** bundle is **Active**
+
+You are now ready to use AMP...

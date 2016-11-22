@@ -5,7 +5,7 @@ You are now ready to use AMP.
 
 The web interface is configured and accessible on the following URL.
 
-http://[[CLIENT_SUBDOMAIN]]-8081-[[KATACODA_HOST]].environments.katacoda.com
+http://[[HOST_SUBDOMAIN]]-8081-[[KATACODA_HOST]].environments.katacoda.com
 
 Please use the following credentials:
 
